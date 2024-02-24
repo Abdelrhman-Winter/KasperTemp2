@@ -8,7 +8,7 @@ Responsive template with css and html only.
 
 ![](</Screenshot%20(38).png>) ![](</Screenshot%20(42).png>)
 
-download to see full site
+
 
 ## License
 
